@@ -1,6 +1,6 @@
 {
   "name": "@xiaorongnie/vue-video-talk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "云台控制、对讲",
   "author": "NXR",
   "main": "dist/vue-video-talk.umd.js",
@@ -53,6 +53,10 @@
     "url": "https://github.com/xiaorongnie/vue-video-talk/issues"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "vetur": {
+    "tags": ".vscode/vetur/tags.json",
+    "attributes": ".vscode/vetur/attributes.json"
   }
 }
